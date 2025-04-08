@@ -1,27 +1,22 @@
+# Unsplash Animal Explorer 🦁📸
 
-# RAWG Games Explorer 🎮
-
-Um catálogo de jogos moderno que consome a API do RAWG, com design inspirado na Steam.
+Um catálogo de imagens API do Unsplash, com design moderno e responsivo.
 
 ## ✨ Funcionalidades
-- Listagem de jogos populares
-- Página de detalhes com abas
+- Exibição de imagens e nome
 - Design responsivo
-- UI estilo Steam com dark theme
+- UI com dark theme e estilo moderno
 - Navegação fluida
 
 ## 🛠 Tecnologias
 - React
-- React Router
-- Axios
-- React Icons
 - CSS Modules
-- RAWG API
+- Unsplash API
 
 ## 🚀 Como Executar
 1. Clone o repositório
 2. Instale as dependências: `npm install`
-3. Crie um arquivo `.env` com sua chave RAWG_API
+3. Crie um arquivo `.env` com sua chave do Unsplash API (chame a variável de `REACT_APP_UNSPLASH_API_KEY`)
 4. Inicie o servidor: `npm start`
 5. Acesse: `http://localhost:3000`
 
