@@ -26,7 +26,7 @@ Um catálogo de imagens API do Unsplash, com design moderno e responsivo.
 src/
 ├── App.js
 └── index.js
-
+```
 
 ## 📌 Pré-requisitos
 - Node.js 16+
